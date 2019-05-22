@@ -8,6 +8,7 @@ public class ReverseString {
 			
 			System.out.print(s.charAt(i));
 		}
+		System.out.println("Complted program");
 		
 	}
 
