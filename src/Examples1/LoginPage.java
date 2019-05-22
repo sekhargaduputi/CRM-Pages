@@ -42,9 +42,9 @@ public class LoginPage {
 		
 		System.out.println("Login successfully");
 		
-		
-		System.out.println("Logout");
+	
 		driver.quit();
+		
 		
 		
 		
