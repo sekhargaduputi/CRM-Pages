@@ -45,7 +45,6 @@ public class LoginPage {
 		
 		System.out.println("Logout");
 		driver.quit();
-		System.out.println("close the browser");
 		
 		
 		
