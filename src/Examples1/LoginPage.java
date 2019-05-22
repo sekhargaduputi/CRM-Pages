@@ -46,7 +46,7 @@ public class LoginPage {
 		driver.quit();
 		
 		
-		
+		System.out.println("Logout successfully");
 		
 	}
 
